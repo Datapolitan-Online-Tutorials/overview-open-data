@@ -1,13 +1,4 @@
-# Introduction to Open Data
-
-![img](images/event_cover.png)
-
-## [Click here for tickets](https://www.eventbrite.com/e/seeing-dallas-in-data-an-introduction-to-open-data-in-dfw-tickets-55724131377?aff=github)
-
-## Background
-A workshop given as part of the [2016 NYC DCAS Expo](http://www.nyc.gov/html/dcas/downloads/pdf/misc/expo2016.pdf). [Original slides are available online](http://www.datapolitan.com/talks_lectures/20160108_OpenDataExpo). Current slides are available at http://training.datapolitan.com/intro-open-data.
-
-![img](images/expo2016_14.jpg)
+# A Simple Introduction to Government Open Data
 
 ## Overview
 As more and more data is released to the public through open data portals, such as [the portal hosted by the City of Dallas](https://www.dallasopendata.com/), we have an unprecendented opportunity to understand the state of our communities and how our government is working. While accessing this information may be easier, accessing the right information can be challenging and understanding it even harder.
