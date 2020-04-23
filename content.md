@@ -93,7 +93,7 @@ name:open-data
 
 ---
 
-# Resources
+# Ways to Learn More
 --
 
 + [Open Data Handbook](http://opendatahandbook.org/)
