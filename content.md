@@ -88,8 +88,9 @@ name:open-data
 + Availability and access
 + Reuse and redistribution
 + Universal participation
+--
 
-![img-center-90](images/csv.png)
+![img-center-80](images/csv.png)
 
 ---
 
