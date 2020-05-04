@@ -90,7 +90,7 @@ name:open-data
 + Universal participation
 --
 
-![img-center-80](images/csv.png)
+![img-center-85](images/csv.png)
 
 ---
 
